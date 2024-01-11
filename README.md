@@ -31,9 +31,6 @@ Currently, this addon supports:
 
 This is a plugin only! You can get the base bag addon over at [Cidan/BetterBags](https://github.com/Cidan/BetterBags) or [CurseForge](https://www.curseforge.com/wow/addons/better-bags).
 
-## Contributors
-- ZehelFenris ([GitHub](https://github.com/ZehelFenris))
--
 ## Support & Connect
 - GitHub: [AvyAddons](https://github.com/AvyAddons)
 - Twitter: [@Avyiel7](https://twitter.com/Avyiel7)
