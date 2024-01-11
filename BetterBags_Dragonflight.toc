@@ -1,6 +1,6 @@
 ## Interface: 100200
 
-## Title: BetterBags Dragonflight
+## Title: BetterBags - Dragonflight
 ## Notes: Filter for common Dragonflight items in BetterBags.
 ## Author: Avyiel
 ## Version: @project-version@
