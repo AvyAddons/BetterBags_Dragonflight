@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file. Be aware th
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [1.0.4] 2024-02-01
+### Removed
+- Removed items with ID i202103 and i199343. They were never in the game.
+
 ## [1.0.3] 2024-01-31
 ### Removed
 - Removed item with ID i202104 (Weighted Sac of Swog Treasures). It was never in the game.
