@@ -1080,13 +1080,25 @@ addon.db = {
 		212367, -- Clutch of Wyrm's Awakened Crests
 		211950, -- Lively Clutch of Wyrm's Awakened Crests
 		212383, -- Yawning Basket of Aspect's Awakened Crests
+		211522, -- Nascent Aspect's Awakened Crest
+		211523, -- Nascent Whelpling's Awakened Crest
+		211521, -- Nascent Wyrm's Awakened Crest
+		211519, -- Enchanted Aspect's Awakened Crest
+		211520, -- Enchanted Whelpling's Awakened Crest
+		211518, -- Enchanted Wyrm's Awakened Crest
 		-- 11.0.0 ???
-		221375, -- Pack of Runed Harbinger Crests
-		221268, -- Pouch of Weathered Harbinger Crests
-		221373, -- Satchel of Carved Harbinger Crests
-		220773, -- Celebratory Pack of Runed Harbinger Crests
-		220776, -- Glorious Cluster of Gilded Harbinger Crests
-		220767, -- Triumphant Satchel of Carved Harbinger Crests
+		-- 221375, -- Pack of Runed Harbinger Crests
+		-- 221268, -- Pouch of Weathered Harbinger Crests
+		-- 221373, -- Satchel of Carved Harbinger Crests
+		-- 220773, -- Celebratory Pack of Runed Harbinger Crests
+		-- 220776, -- Glorious Cluster of Gilded Harbinger Crests
+		-- 220767, -- Triumphant Satchel of Carved Harbinger Crests
+		-- 220789, -- Nascent Gilded Harbinger Crest
+		-- 220790, -- Nascent Runed Harbinger Crest
+		-- 220788, -- Nascent Weathered Harbinger Crest
+		-- 224073, -- Enchanted Gilded Harbinger Crest
+		-- 224072, -- Enchanted Runed Harbinger Crest
+		-- 224069, -- Enchanted Weathered Harbinger Crest
 	},
 	["|cff910951Fyrakk Assault|r"] = {
 		203430, -- Ward of Igira
