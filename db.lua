@@ -31,19 +31,14 @@ addon.db = {
 		204215, -- Dormant Primordial Fragment
 		204030, -- Wind Sculpted Stone
 		204020, -- Wild Spirit Stone
-		204028, -- Whimsical Mail Stone
 		204015, -- Swirling Mojo Stone
 		204000, -- Storm Infused Stone
 		204014, -- Sparkling Mana Stone
 		204007, -- Shining Obsidian Stone
-		204017, -- Serene Light Stone
-		204026, -- Serendipitous Gold Stone
 		204004, -- Searing Smokey Stone
 		204003, -- Raging Magma Stone
 		204029, -- Prophetic Twilight Stone
-		204008, -- Prodigious Sand Stone
 		204022, -- Pestilent Plague Stone
-		204024, -- Oozing Oil Stone
 		204025, -- Obscure Pastel Stone
 		204021, -- Necromantic Death Stone
 		204006, -- Indomitable Earth Stone
@@ -55,7 +50,6 @@ addon.db = {
 		204013, -- Exuding Steam Stone
 		204005, -- Entropic Fel Stone
 		204001, -- Echoing Thunder Stone
-		204016, -- Dreadful Shadow Stone
 		204027, -- Desirous Blood Stone
 		204010, -- Deluging Water Stone
 		204012, -- Cold Frost Stone
