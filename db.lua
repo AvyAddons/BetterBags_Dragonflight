@@ -430,7 +430,6 @@ addon.db = {
 		196975, -- Cliffside Wylderdrake: Head Fin
 		196976, -- Cliffside Wylderdrake: Head Mane
 		196992, -- Cliffside Wylderdrake: Heavy Horns
-		196990, -- Cliffside Wylderdrake: Helm
 		196998, -- Cliffside Wylderdrake: Hook Horns
 		196985, -- Cliffside Wylderdrake: Horned Jaw
 		197005, -- Cliffside Wylderdrake: Horned Nose
@@ -489,7 +488,6 @@ addon.db = {
 		197131, -- Highland Drake: Hairy Cheek
 		197122, -- Highland Drake: Heavy Horns
 		197147, -- Highland Drake: Heavy Scales
-		197119, -- Highland Drake: Helm
 		197126, -- Highland Drake: Hooked Horns
 		197152, -- Highland Drake: Hooked Tail
 		197102, -- Highland Drake: Horned Chin
@@ -565,7 +563,6 @@ addon.db = {
 		197395, -- Renewed Proto-Drake: Harrier Pattern
 		197383, -- Renewed Proto-Drake: Heavy Horns
 		197397, -- Renewed Proto-Drake: Heavy Scales
-		197373, -- Renewed Proto-Drake: Helm
 		197354, -- Renewed Proto-Drake: Horned Back
 		197385, -- Renewed Proto-Drake: Horned Jaw
 		197379, -- Renewed Proto-Drake: Impaler Horns
@@ -630,7 +627,6 @@ addon.db = {
 		197608, -- Windborne Velocidrake: Gray Horns
 		197591, -- Windborne Velocidrake: Hairy Head
 		197617, -- Windborne Velocidrake: Heavy Scales
-		197600, -- Windborne Velocidrake: Helm
 		197619, -- Windborne Velocidrake: Hooked Snout
 		197596, -- Windborne Velocidrake: Horned Jaw
 		197589, -- Windborne Velocidrake: Large Head Fin
@@ -766,7 +762,6 @@ addon.db = {
 		207778, -- Grotto Netherwing Drake: Double Finned Tail
 		207774, -- Grotto Netherwing Drake: Finned Jaw
 		207764, -- Grotto Netherwing Drake: Head Spike
-		207770, -- Grotto Netherwing Drake: Helm
 		207772, -- Grotto Netherwing Drake: Long Horns
 		207769, -- Grotto Netherwing Drake: Outcast Pattern
 		207757, -- Grotto Netherwing Drake: Purple and Silver Armor
