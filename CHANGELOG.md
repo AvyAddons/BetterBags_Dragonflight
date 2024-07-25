@@ -1,7 +1,12 @@
-# BetterBags - Dragonflight Change Log
+# BetterBags - Dragonflight Changelog
 All notable changes to this project will be documented in this file. Be aware that the [Unreleased] features are not yet available in the official tagged builds.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
+
+## [1.3.0] 2024-07-25
+### Changed
+- Flush category on initialization to prevent stale items
+- Bump TOC to 11.0.0, 11.0.2
 
 ## [1.2.1] 2024-06-03
 ### Added
