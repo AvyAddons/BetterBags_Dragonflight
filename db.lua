@@ -87,7 +87,7 @@ addon.db = {
 		202336, -- Journal Entry: The Creches
 		204246, -- Journal Entry: Silence
 	},
-	["|cff0070ddProfession Knowledge|r"] = {
+	["|cff0070ddProfession Knowledge - DF|r"] = {
 		191784, -- Dragon Shard of Knowledge
 		-- Alchemy
 		--------------------------------------------------------------------
@@ -394,7 +394,7 @@ addon.db = {
 		210462, -- Plush Pillow (10.2)
 		210463, -- Snuggle Buddy (10.2)
 	},
-	["|cff56BBFFDrakewatcher Manuscript|r"] = {
+	["|cff56BBFFDrakewatcher Manuscript - DF|r"] = {
 		196961, -- Cliffside Wylderdrake: Armor
 		196986, -- Cliffside Wylderdrake: Black Hair
 		196991, -- Cliffside Wylderdrake: Black Horns
@@ -824,7 +824,7 @@ addon.db = {
 		199092, -- Inert Phoenix Ash
 		199177, -- Ash Feather Amulet
 	},
-	["|cffff8040Reputation|r"] = {
+	["|cffff8040Reputation - DF|r"] = {
 		191251, -- Key Fragments
 		193201, -- Key Framing
 		191264, -- Restored Obsidian Key
@@ -905,7 +905,7 @@ addon.db = {
 		210847, -- Tears of the Eye
 		210951, -- Treacherous Research Notes
 	},
-	["|cffAFB42BContracts|r"] = {
+	["|cffAFB42BContracts - DF|r"] = {
 		198497, --Contract: Valdrakken Accord
 		198499, --Contract: Valdrakken Accord
 		198498, --Contract: Valdrakken Accord
@@ -930,7 +930,7 @@ addon.db = {
 		199342, -- Weighted Sac of Swog Treasures
 		202102, -- Immaculate Sac of Swog Treasures
 	},
-	["Darkmoon Cards"] = {
+	["Darkmoon Cards - DF"] = {
 		198614, -- Soggy Clump of Darkmoon Cards
 		194827, -- Bundle O' Cards: Dragon Isles
 		194801, -- Ace of Air
@@ -1031,7 +1031,7 @@ addon.db = {
 		205982, -- Lost Dig Map
 		205984, -- Bartered Dig Map
 	},
-	["|cffff8040Crests|r"] = {
+	["|cffff8040Crests - DF|r"] = {
 		-- 10.2.0
 		206961, -- Enchanted Aspect's Dreaming Crest
 		206960, -- Enchanted Wyrm's Dreaming Crest
